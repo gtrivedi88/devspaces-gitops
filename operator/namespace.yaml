@@ -4,4 +4,3 @@ metadata:
   name: openshift-devspaces
   annotations:
     openshift.io/description: "Red Hat OpenShift Dev Spaces"
-    argocd.argoproj.io/sync-wave: "0"
